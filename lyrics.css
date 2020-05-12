@@ -1,0 +1,14 @@
+body{
+	background-color: #350D36;
+	padding: 20px;
+}
+
+h1, h2{
+	color: white;
+}
+span{
+	color: lightgray;
+}
+div{
+	color: pink;
+}
