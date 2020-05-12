@@ -11,4 +11,8 @@ span{
 }
 div{
 	color: pink;
+	background-color: #33064B;
+	width: 350px;
+	padding-left: 20px;
+	margin:20px;
 }
